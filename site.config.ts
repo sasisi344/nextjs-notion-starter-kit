@@ -17,8 +17,8 @@ export default siteConfig({
   description: 'その日その時で思いついたことを書きなぐる。',
 
   // social usernames (optional)
-  X: 'sasisi344',
-  Instagram: 'sasisi344',
+  // X: 'sasisi344',
+  // Instagram: 'sasisi344',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
