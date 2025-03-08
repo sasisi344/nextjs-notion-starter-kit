@@ -10,15 +10,15 @@ export default siteConfig({
 
   // basic site info (required)
   name: '34feed',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: '34feed.me',
   author: 'さしし',
 
   // open graph metadata (optional)
   description: 'その日その時で思いついたことを書きなぐる。',
 
   // social usernames (optional)
-  // X: 'sasisi344',
-  // Instagram: 'sasisi344',
+  twitter: 'sasisi344',
+  github: 'sasisi344',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL

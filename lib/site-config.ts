@@ -11,15 +11,12 @@ export interface SiteConfig {
   language?: string
 
   twitter?: string
-  X?: string
   github?: string
   linkedin?: string
   newsletter?: string
   zhihu?: string
   mastodon?: string
-  Instagram?:string
-  Bluesky?: string
-  
+  youtube?: string  
 
   defaultPageIcon?: string | null
   defaultPageCover?: string | null
