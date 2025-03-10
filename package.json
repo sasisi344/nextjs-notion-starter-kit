@@ -58,6 +58,7 @@
   "devDependencies": {
     "@fisch0920/eslint-config": "^1.4.0",
     "@next/bundle-analyzer": "^15.0.2",
+    "@types/gtag.js": "^0.0.20",
     "@types/node": "^22.8.6",
     "@types/react": "^18.0.21",
     "cross-env": "^7.0.2",
